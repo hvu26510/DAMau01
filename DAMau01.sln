@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAMau01", "DAMau01\DAMau01.csproj", "{F90B981D-7467-4F3D-97A3-2FE04FA0EA3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F90B981D-7467-4F3D-97A3-2FE04FA0EA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90B981D-7467-4F3D-97A3-2FE04FA0EA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90B981D-7467-4F3D-97A3-2FE04FA0EA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90B981D-7467-4F3D-97A3-2FE04FA0EA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67CC99E8-96FD-46B6-A8C0-A16E0B3C0631}
+	EndGlobalSection
+EndGlobal
